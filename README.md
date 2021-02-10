@@ -16,3 +16,4 @@ Here are some GIFs of the game
 
 ## Links
 Short playthrough: https://youtu.be/7kdHsVF5Ot4
+More information available on my LinkedIn Profile
