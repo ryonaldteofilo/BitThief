@@ -2,7 +2,7 @@
 ✓ BitThief is a Unity-based mobile top-down thief simulator game. Created using C# scripts and Tilemaps
 
 ## Information
-Some key features of the game are:
+Some key features of the game are:  
 ✓ Safer save/load high score system (using Binary Formatter).  
 ✓ Enemy FOV using Raycast and Mesh Renderer.  
 ✓ Player and enemy movement animation using Blend Trees  
