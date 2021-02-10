@@ -15,5 +15,5 @@ Here are some GIFs of the game
 ![Playthrough GIF2](https://media.giphy.com/media/7Qht65iEc29xgWkxvb/giphy.gif)
 
 ## Links
-Short playthrough: https://youtu.be/7kdHsVF5Ot4  
-More information available on my LinkedIn Profile  
+✓ Short playthrough: https://youtu.be/7kdHsVF5Ot4  
+✓ More information available on my LinkedIn Profile  
