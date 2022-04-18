@@ -8,9 +8,9 @@ Some key features of the game are:
 ✓ Player and enemy movement animation using Blend Trees
 ✓ Key Doors
 
-![Playthrough GIF1](https://media.giphy.com/media/gcV3boN3NEcZLRno8E/giphy.gif =250x)
+<img src="https://media.giphy.com/media/gcV3boN3NEcZLRno8E/giphy.gif" width="250"/>
 
-![Playthrough GIF2](https://media.giphy.com/media/7Qht65iEc29xgWkxvb/giphy.gif =250x)
+<img src="https://media.giphy.com/media/7Qht65iEc29xgWkxvb/giphy.gif" width="250"/>
 
 ## Links
 ✓ Short playthrough: https://youtu.be/7kdHsVF5Ot4
