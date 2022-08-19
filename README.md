@@ -1,6 +1,6 @@
 ## BitThief
-Unity-based mobile top-down thief simulator game.
-Note: I lost the project file, only managed to find the scripts. Will have to revive this project at some point :P
+Unity-based mobile top-down thief simulator game. <br />
+(Note: I lost the project file, only managed to find the scripts. Will have to revive this project at some point :P) 
 
 ## Demo
 https://youtu.be/7kdHsVF5Ot4
