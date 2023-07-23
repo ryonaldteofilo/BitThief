@@ -3,7 +3,7 @@ A mobile top-down thief simulator game coded in C# and Unity during COVID pandem
 (Note: This repository only contains the scripts)
 
 ## Demo
-https://youtu.be/7kdHsVF5Ot4
+[https://www.youtube.com/watch?v=6NRwLs_CNHM](https://www.youtube.com/watch?v=6NRwLs_CNHM)
 
 <p float="left">
 <img src="https://media.giphy.com/media/gcV3boN3NEcZLRno8E/giphy.gif" width="800"/>
