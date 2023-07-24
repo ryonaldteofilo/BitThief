@@ -1,6 +1,9 @@
 ## BitThief
 A mobile top-down thief simulator game coded in C# and Unity during COVID pandemic. <br />
-(Note: This repository only contains the scripts)
+
+Demo standalone application is available under `/demo` directory. <br />
+
+(Note that this repository only contains scripts and demo)
 
 ## Demo
 [https://www.youtube.com/watch?v=6NRwLs_CNHM](https://www.youtube.com/watch?v=6NRwLs_CNHM)
